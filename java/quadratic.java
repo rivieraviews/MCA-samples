@@ -1,5 +1,3 @@
-//import java.lang.*;
-
 class quadroots
 {
     int a, b, c;
